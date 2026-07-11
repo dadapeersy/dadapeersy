@@ -19,13 +19,59 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 ### Languages & Frameworks
 ![JavaScript](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,express)
 
-### Databases & Tools
-![MongoDB](https://skillicons.dev/icons?i=mongodb,tailwind,git,github)
+### Databases & Cloud Services
+![MongoDB](https://skillicons.dev/icons?i=mongodb,docker)
 
-### Other Tools
-![VS Code](https://skillicons.dev/icons?i=vscode,postman,figma)
+### Cloud & Media Management
+- **☁️ Cloudinary** - Media management, image optimization & CDN
+- **🗄️ MongoDB** - NoSQL database for scalable applications
+- **🤖 Claude AI** - Advanced AI for code generation & optimization
+
+### AI & Code Generation Tools
+- **💻 GitHub Codex** - AI-powered code completion & intelligent suggestions
+- **🚀 AntiGravity IDE** - Low-code/no-code platform for rapid prototyping
+- **⚡ VS Code** - Premium code editor with extensions
+
+### Styling & Version Control
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind,git,github)
 
 </div>
+
+---
+
+## 🤖 AI & Advanced Tools Explained
+
+### GitHub Codex
+**What it is:** AI-powered code completion engine by GitHub
+- Generates code from natural language descriptions
+- Suggests entire functions and code snippets
+- Learns from your codebase patterns
+- Accelerates development with intelligent automation
+- **Why I use it:** Speeds up repetitive coding tasks and documentation
+
+### AntiGravity IDE
+**What it is:** Low-code/no-code visual development platform
+- Drag-and-drop interface for building applications
+- Rapid prototyping without boilerplate code
+- Perfect for MVPs and quick iterations
+- Reduces development time significantly
+- **Why I use it:** Great for rapid development cycles and proof-of-concepts
+
+### Claude AI
+**What it is:** Advanced language model by Anthropic
+- Intelligent code review and optimization
+- Helps solve complex algorithmic problems
+- Documentation generation and technical writing
+- Debugging assistance and error explanation
+- **Why I use it:** Enhances code quality and accelerates problem-solving
+
+### Cloudinary
+**What it is:** Cloud-based media management platform
+- Automatic image and video optimization
+- CDN distribution for fast content delivery
+- Dynamic transformations and resizing
+- Reduces server load and improves performance
+- **Why I use it:** Essential for modern web applications with media-heavy content
 
 ---
 
@@ -48,7 +94,22 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 - ✨ Building scalable full-stack applications with best practices
 - 🧠 Mastering system design and architecture patterns
 - 🤖 Exploring AI integration in web applications
+- 🚀 Leveraging advanced tools like Codex and AntiGravity for faster development
 - 📚 Continuously improving software engineering fundamentals
+
+---
+
+## 💡 Tech Stack Overview
+
+| Category | Tools |
+|----------|-------|
+| **Frontend** | React.js, Next.js, TypeScript, Tailwind CSS |
+| **Backend** | Node.js, Express.js |
+| **Database** | MongoDB |
+| **Cloud Services** | Cloudinary, Claude AI |
+| **AI & Code Gen** | GitHub Codex, Claude |
+| **Development** | AntiGravity IDE, VS Code, Postman |
+| **Version Control** | Git, GitHub |
 
 ---
 
@@ -67,3 +128,13 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 ## 📈 Recent Activity
 
 Feel free to explore my repositories to see what I'm working on! Check out my projects and don't hesitate to reach out for collaborations.
+
+---
+
+<div align="center">
+
+### Made with ❤️ by Dadapeersy
+
+![Profile Views](https://komarev.com/ghpvc/?username=dadapeersy&color=0891b2&style=for-the-badge)
+
+</div>
