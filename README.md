@@ -38,22 +38,6 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 
 ---
 
-## 🚀 Tech Stack Overview
-
-| **Languages** | **Frontend** | **Backend** | **Database** |
-|---|---|---|---|
-| JavaScript | React.js | Node.js | MongoDB |
-| TypeScript | Next.js | Express.js | Docker |
-| Java | Tailwind CSS | REST APIs | AWS |
-
-| **Cloud & AI** | **Development** | **Version Control** | **Tools** |
-|---|---|---|---|
-| Cloudinary | AntiGravity IDE | Git | Postman |
-| Claude AI | VS Code | GitHub | Figma |
-| GitHub Codex | Postman | GitHub Actions | Figma |
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
