@@ -22,9 +22,6 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 ### Databases & Cloud Services
 ![MongoDB](https://skillicons.dev/icons?i=mongodb,docker,aws)
 
-### Cloud & Media Management
-![Cloudinary](https://skillicons.dev/icons?i=cloudinary)
-
 ### AI & Code Generation Tools
 ![Claude](https://skillicons.dev/icons?i=github,vscode)
 
