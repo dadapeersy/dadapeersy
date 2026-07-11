@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+Next.js+%26+React;Building+Scalable+Applications;Learning+AI+Integration;Welcome+to+my+profile!👋" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stac+Developer;Building+Scalable+Web+Apps;Next.js+React+JavaScript" alt="Typing SVG" /></a>
 
 ---
 
 ## 👋 About Me
 
-I'm a **Full Stack Developer** passionate about building scalable, user-friendly web applications. I specialize in **Next.js** and **React.js** for frontend development and have strong backend skills with **Node.js** and **Express.js**. Currently exploring **AI integration** and system design principles to become a better software engineer.
+I'm a **Full Stack Developer** passionate about building scalable, user-friendly web applications. I specialize in **Next.js** and **React.js** for frontend development and have strong backend skills with **Node.js** and **Express**.
 
 **Pronouns:** He/Him  
 **Location:** Karnataka, India (IST)  
@@ -44,6 +44,40 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dadapeersy&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeersy&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📈 Activity Overview
+
+<div align="center">
+
+### Contribution Metrics (Spider Chart Style)
+
+```
+                            Code Review
+                                 |
+                            90°  |  270°
+                                 |
+                Commits ————————— ⬢ ————————— Issues
+                (86%)            |            (14%)
+                                 |
+                         Pull Requests
+                            (14%)
+```
+
+**My Contribution Profile:**
+- **86% Commits** - Active development & implementation
+- **14% Issues** - Bug reports & feature discussions  
+- **14% Pull Requests** - Code reviews & improvements
+- **Code Review Focus** - Contributing across multiple repositories
+
+### Current Projects
+- **ShivaShankarReddy098/drssupepc** - Core contributor
+- **developerdct/clinique-cutis** - Active collaborations
+- **ShivaShankarReddy098/namma-c** - Ongoing development
+- Plus 8 other repositories
 
 </div>
 
