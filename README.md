@@ -53,19 +53,7 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 
 <div align="center">
 
-### Contribution Metrics (Spider Chart Style)
-
-```
-                            Code Review
-                                 |
-                            90°  |  270°
-                                 |
-                Commits ————————— ⬢ ————————— Issues
-                (86%)            |            (14%)
-                                 |
-                         Pull Requests
-                            (14%)
-```
+![GitHub Activity Stats](https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
 **My Contribution Profile:**
 - **86% Commits** - Active development & implementation
@@ -74,7 +62,7 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 - **Code Review Focus** - Contributing across multiple repositories
 
 ### Current Projects
-- **ShivaShankarReddy098/drssupepc** - Core contributor
+- **ShivaShankarReddy098/drssuperc** - Core contributor
 - **developerdct/clinique-cutis** - Active collaborations
 - **ShivaShankarReddy098/namma-c** - Ongoing development
 - Plus 8 other repositories
