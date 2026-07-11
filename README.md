@@ -67,13 +67,3 @@ I'm a **Full Stack Developer** passionate about building scalable, user-friendly
 ## 📈 Recent Activity
 
 Feel free to explore my repositories to see what I'm working on! Check out my projects and don't hesitate to reach out for collaborations.
-
----
-
-<div align="center">
-
-### Made with ❤️ by Dadapeersy
-
-![Profile Views](https://komarev.com/ghpvc/?username=dadapeersy&color=0891b2&style=for-the-badge)
-
-</div>
