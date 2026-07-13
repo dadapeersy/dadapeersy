@@ -1,14 +1,6 @@
 # <div align="center">
 
-## 🐙 Animated Contribution Octopus
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/dadapeersy/dadapeersy/output/github-contribution-grid-snake-dark.svg" alt="Octopus animation" />
-</p>
-
 # Hi 👋, I'm **Dadapeer Yerimani**
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%7C+React.js+Developer;Problem+Solver;Tech+Enthusiast" />
 
 ### 🚀 Full Stack Developer | Next.js • React • Node.js • MongoDB
 
@@ -74,18 +66,6 @@ From responsive frontend interfaces to secure backend APIs, I love turning ideas
 
 ---
 
-# 🚀 Currently Learning
-
-* ✅ Scalable Full Stack Architecture
-* ✅ System Design
-* ✅ AI Integration in Web Applications
-* ✅ Performance Optimization
-* ✅ Authentication & Security
-* ✅ Cloud Deployment
-* ✅ Clean Code & Best Practices
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -113,8 +93,6 @@ From responsive frontend interfaces to secure backend APIs, I love turning ideas
 # 🌐 Connect With Me
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-blue?style=for-the-badge\&logo=vercel)](#)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dadapeer-yerimani-98b90a27a/)
 
