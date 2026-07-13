@@ -1,5 +1,11 @@
 # <div align="center">
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dadapeersy/dadapeersy/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
 # Hi 👋, I'm **Dadapeer Yerimani**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Next.js+%7C+React.js+Developer;Building+Scalable+Web+Applications;Backend+Developer+with+Node.js;Always+Learning+New+Technologies" alt="Typing SVG" />
