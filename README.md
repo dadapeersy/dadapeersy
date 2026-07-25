@@ -1,136 +1,142 @@
-# <div align="center">
+<div align="center">
 
-# Hi 👋, I'm **Dadapeer Yerimani**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
-### 🚀 Full Stack Developer | Next.js • React • Node.js • MongoDB
+<a href="https://github.com/dadapeersy">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+apps;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+products;Exploring+AI-powered+web+apps+%26+automation&font=Fira+Code&center=true&width=600&height=45&color=0891b2&vCenter=true&size=22&pause=1500"/>
+</a>
 
-<p>
-I enjoy building modern, scalable, and high-performance web applications with great user experiences.
-From responsive frontend interfaces to secure backend APIs, I love turning ideas into production-ready applications.
-</p>
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0891b2?style=for-the-badge&logo=vercel&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dadapeer-yerimani-98b90a27a/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yerimanid@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dadapeer__4321?igsh=MWd4OTV2d29pcmVmMg==)
 
 </div>
 
----
+<br/>
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-* 🔭 Currently working on **Full Stack CMS & Dashboard Applications**
-* 🌱 Learning **System Design, Cloud Services, AI Integration & Scalable Architecture**
-* 💡 Passionate about **Next.js, React, TypeScript, Node.js, Express.js & MongoDB**
-* 🤖 Exploring **AI-powered web applications and automation**
-* 💬 Ask me about **React, Next.js, JavaScript, Node.js, Express, MongoDB**
-* 📍 Karnataka, India 🇮🇳
-* 📫 **Email:** **[yerimanid@gmail.com](mailto:yerimanid@gmail.com)**
-* ⚡ Fun Fact: I enjoy building projects that solve real-world business problems.
+```yaml
+name: Dadapeer Yerimani
+role: Full Stack Developer
+location: Karnataka, India 🇮🇳
+currently_building: Full Stack CMS & Dashboard Applications
+learning: System Design • Cloud Services • AI Integration • Scalable Architecture
+stack_focus: Next.js • React • TypeScript • Node.js • Express.js • MongoDB
+exploring: AI-powered web applications & automation
+fun_fact: "I enjoy building projects that solve real-world business problems."
+```
 
----
+<br/>
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-## 💻 Languages
+<table width="100%">
+<tr>
+<td valign="top" width="50%">
 
-<p>
+**Languages**
 <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css" />
-</p>
 
-## ⚛️ Frontend
+**Frontend**
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-## ⚙️ Backend
-
-<p>
+**Backend**
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
 
-## 🗄 Database
+**Database**
+<img src="https://skillicons.dev/icons?i=mongodb,redis" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
 
-## ☁️ Cloud & DevOps
+**Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions" />
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws" />
-</p>
+</td>
+<td valign="top" width="50%">
 
-## 🛠 Tools
-
-<p>
+**Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-</p>
 
----
+</td>
+</tr>
+</table>
 
-# 📊 GitHub Analytics
+<br/>
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeersy&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeersy&theme=tokyonight&hide_border=true" />
+| Project | Description | Tech | Link |
+|---|---|---|---|
+| 🔹 **Project One** | Short one-line description of the project and impact | Next.js, MongoDB | [Repo](#) |
+| 🔹 **Project Two** | Short one-line description of the project and impact | Node.js, Express | [Repo](#) |
+| 🔹 **Project Three** | Short one-line description of the project and impact | React, TypeScript | [Repo](#) |
 
 </div>
 
----
+> ✏️ *Replace the placeholders above with your real repos — pinned projects with a live demo link convert best.*
 
-# 📈 GitHub Activity Graph
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=00000000" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeersy&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeersy&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadapeersy&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dadapeersy&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+<br/>
+
+## 🎯 2026 Goals
+
+- 🚀 Build production-ready SaaS applications
+- 🤖 Develop AI-powered developer tools
+- 📚 Master System Design
+- ☁️ Learn AWS & Cloud Infrastructure
+- 🔥 Contribute to Open Source
+- 💼 Collaborate on impactful projects
+
+<br/>
+
+## 💬 Quote
 
 <div align="center">
 
-[![Dadapeer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dadapeersy\&theme=tokyo-night)](https://github.com/dadapeersy)
+*"Great software isn't just about writing code — it's about solving real problems with clean, scalable solutions."*
 
 </div>
 
----
-
-# 🌐 Connect With Me
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/dadapeer-yerimani-98b90a27a/)
+### ⭐ Thanks for stopping by — if my work resonates with you, drop a star on my repos!
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/dadapeer__4321?igsh=MWd4OTV2d29pcmVmMg==)
+<img src="https://komarev.com/ghpvc/?username=dadapeersy&style=for-the-badge&color=0891b2" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/dadapeersy)
-
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:yerimanid@gmail.com)
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-* 🚀 Build production-ready SaaS applications
-* 🤖 Develop AI-powered developer tools
-* 📚 Master System Design
-* ☁️ Learn AWS & Cloud Infrastructure
-* 🔥 Contribute to Open Source
-* 💼 Collaborate on impactful projects
-
----
-
-# 💬 Quote
-
-> **"Great software isn't just about writing code—it's about solving real problems with clean, scalable solutions."**
-
----
-
-<div align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-If you like my work, consider giving a ⭐ to my repositories.
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=dadapeersy\&style=for-the-badge\&color=0891b2)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0891b2&height=100&section=footer" width="100%"/>
 
 </div>
