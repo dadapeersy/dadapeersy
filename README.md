@@ -3,6 +3,197 @@
 <br/>
 <br/>
 
+<svg width="1600" height="400" viewBox="0 0 1600 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#000"/>
+<stop offset="100%" stop-color="#111"/>
+</linearGradient>
+
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+<stop offset="50%" stop-color="#fff"/>
+<stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+</linearGradient>
+
+<filter id="glow">
+<feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+<feMerge>
+<feMergeNode in="coloredBlur"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+
+</defs>
+
+<rect width="1600" height="400" fill="url(#bg)"/>
+
+<!-- GRID -->
+
+<g opacity=".05">
+
+<path d="M0 50H1600"/>
+<path d="M0 100H1600"/>
+<path d="M0 150H1600"/>
+<path d="M0 200H1600"/>
+<path d="M0 250H1600"/>
+<path d="M0 300H1600"/>
+<path d="M0 350H1600"/>
+
+<path d="M100 0V400"/>
+<path d="M200 0V400"/>
+<path d="M300 0V400"/>
+<path d="M400 0V400"/>
+<path d="M500 0V400"/>
+<path d="M600 0V400"/>
+<path d="M700 0V400"/>
+<path d="M800 0V400"/>
+<path d="M900 0V400"/>
+<path d="M1000 0V400"/>
+<path d="M1100 0V400"/>
+<path d="M1200 0V400"/>
+<path d="M1300 0V400"/>
+<path d="M1400 0V400"/>
+<path d="M1500 0V400"/>
+
+</g>
+
+<!-- ROTATING RING -->
+
+<g transform="translate(1320 200)">
+
+<circle r="90" stroke="white" stroke-opacity=".15" stroke-width="2"/>
+
+<circle r="70" stroke="white" stroke-opacity=".08"/>
+
+<circle r="50" stroke="white" stroke-opacity=".05"/>
+
+<path d="M0-90A90 90 0 0 1 70-55"
+stroke="white"
+stroke-width="5"
+filter="url(#glow)">
+
+<animateTransform
+attributeName="transform"
+type="rotate"
+from="0"
+to="360"
+dur="12s"
+repeatCount="indefinite"/>
+
+</path>
+
+</g>
+
+<!-- SCAN LINE -->
+
+<rect x="-400" y="0" width="350" height="400" fill="url(#line)" opacity=".08">
+
+<animate
+attributeName="x"
+from="-400"
+to="1800"
+dur="6s"
+repeatCount="indefinite"/>
+
+</rect>
+
+<!-- TEXT -->
+
+<text
+x="120"
+y="160"
+font-size="64"
+font-family="Segoe UI"
+font-weight="700"
+fill="white">
+
+DADAPEER YERIMANI
+
+</text>
+
+<text
+x="120"
+y="205"
+font-size="22"
+font-family="Segoe UI"
+fill="#BDBDBD">
+
+FULL STACK ENGINEER
+
+</text>
+
+<text
+x="120"
+y="260"
+font-size="18"
+font-family="Consolas"
+fill="#888">
+
+> React.js
+
+</text>
+
+<text
+x="120"
+y="290"
+font-size="18"
+font-family="Consolas"
+fill="#888">
+
+> Next.js
+
+</text>
+
+<text
+x="120"
+y="320"
+font-size="18"
+font-family="Consolas"
+fill="#888">
+
+> Node.js
+
+</text>
+
+<text
+x="120"
+y="350"
+font-size="18"
+font-family="Consolas"
+fill="#888">
+
+> MongoDB
+
+</text>
+
+<!-- STATUS -->
+
+<circle cx="118" cy="70" r="6" fill="#fff">
+
+<animate
+attributeName="opacity"
+values="1;.2;1"
+dur="1s"
+repeatCount="indefinite"/>
+
+</circle>
+
+<text
+x="135"
+y="76"
+font-size="18"
+fill="#ccc"
+font-family="Consolas">
+
+SYSTEM ONLINE
+
+</text>
+
+</svg>
+
 # BUILDING SOFTWARE THAT SCALES
 
 ### Dadapeer Yerimani
@@ -184,7 +375,7 @@ User authentication • Analytics dashboard • Media management • SEO tools �
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&icon_color=58a6ff&title_color=58a6ff[...]
 
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeersy&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff" />
 
