@@ -1,10 +1,10 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:6366f1&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/dadapeersy">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+apps;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+products;Exploring+AI-powered+web+apps+%26+automation&font=Fira+Code&center=true&width=600&height=45&color=0891b2&vCenter=true&size=22&pause=1500"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+full-stack+apps;Next.js+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+ideas+into+production-ready+products;Exploring+AI-powered+web+apps+%26+automation&font=Fira+Code&center=true&width=600&height=45&color=00d9ff&vCenter=true&size=22&pause=1500&background=00000000"/>
 </a>
+</div>
 
 <br/>
 
