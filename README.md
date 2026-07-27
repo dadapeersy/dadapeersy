@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:161B22,40:21262D,60:30363D,80:58A6FF,100:7EE787&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
-<hr style="border:0;height:2px;background:#ffffff;margin:0;">
-<hr style="border:0;height:2px;background:#555555;margin:0;">
+
 
 
 <a href="https://github.com/dadapeersy">
