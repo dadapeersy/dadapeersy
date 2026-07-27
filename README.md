@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:161B22,40:21262D,60:30363D,80:58A6FF,100:7EE787&height=220&section=header&text=Dadapeer%20Yerimani&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Next.js%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20MongoDB&descAlignY=55&descSize=18" width="100%"/>
 
 <hr style="border:0;height:2px;background:#ffffff;margin:0;">
 <hr style="border:0;height:2px;background:#555555;margin:0;">
@@ -142,6 +142,6 @@ fun_fact: "I enjoy building projects that solve real-world business problems."
 
 <img src="https://komarev.com/ghpvc/?username=dadapeersy&style=for-the-badge&color=000000&labelColor=000000" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:000000&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,20:161B22,40:21262D,60:30363D,80:58A6FF,100:7EE787&height=100&section=footer" width="100%"/>
 
 </div>
