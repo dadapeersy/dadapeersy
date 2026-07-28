@@ -95,10 +95,7 @@ fun_fact: "I enjoy building projects that solve real-world business problems."
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=dadapeersy&show_icons=true&theme=dark&hide_border=true&count_private=true&bg_color=00000000&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dadapeersy&layout=compact&theme=dark&hide_border=true&bg_color=00000000&title_color=00D9FF&text_color=c9d1d9" />
-</div>
+
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=dadapeersy&theme=dark&hide_border=true&background=00000000&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" />
