@@ -199,23 +199,7 @@ Production Engineering
 
 I'm particularly interested in understanding **how applications scale beyond the code itself** — architecture, databases, caching, authentication, performance, deployment and infrastructure.
 
----
 
-## 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dadapeersy&theme=github-compact&hide_border=true&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=dadapeersy&theme=darkhub&no-frame=true&margin-w=10&row=1&column=6"/>
-
-</div>
 
 ---
 
