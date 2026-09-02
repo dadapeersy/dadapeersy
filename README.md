@@ -103,12 +103,6 @@ currently_learning:
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redis"/>
 </p>
 
-### Cloud & DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,githubactions"/>
-</p>
-
 ### Tools
 
 <p>
