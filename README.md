@@ -131,10 +131,6 @@ currently_learning:
 
 <br/>
 
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
-
 ### 🏗️ Full-Stack CMS & Website Platform
 
 A platform designed to manage multiple client websites from a centralized dashboard.
@@ -154,15 +150,7 @@ A platform designed to manage multiple client websites from a centralized dashbo
 
 **Stack:** `Next.js` `React` `TypeScript` `Node.js` `MongoDB` `Tailwind CSS`
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
 
 ### 📊 CRM & Lead Management Platform
 
@@ -184,15 +172,7 @@ A business CRM focused on managing sales leads and automating salesperson workfl
 
 **Stack:** `Next.js` `React` `TypeScript` `MongoDB` `SWR`
 
-</td>
-</tr>
-</table>
-
 <br/>
-
-<table width="100%">
-<tr>
-<td width="100%" valign="top">
 
 ### ⚙️ Business Dashboards
 
@@ -210,10 +190,6 @@ Examples include:
 - Calendar systems
 - Media libraries
 - Website configuration
-
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -255,26 +231,14 @@ I'm particularly interested in understanding **how applications scale beyond the
 
 ## 🎯 &nbsp;2026 Goals
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 🚀 Build and ship more production-ready SaaS products
 🧠 Become stronger in system design and software architecture
 ☁️ Deepen my AWS and cloud infrastructure knowledge
 🤖 Build practical AI-powered applications
-
-</td>
-<td width="50%" valign="top">
-
 ⚡ Improve application performance and scalability
 🔐 Learn more about production security
 🌍 Contribute to open-source projects
 💼 Work on impactful real-world products
-
-</td>
-</tr>
-</table>
 
 <br/>
 
