@@ -4,7 +4,7 @@
 <!--                              HERO                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:05060A,35:0B0F1E,70:2E298F,100:00E5FF&height=300&section=header&text=DADAPEER%20YERIMANI&fontSize=54&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20PRODUCT%20BUILDER%20%E2%80%A2%20SAAS%20ARCHITECT&descAlignY=60&descSize=16&stroke=00E5FF&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060A,30:0B0F1E,60:2E298F,100:00E5FF&height=300&section=header&text=DADAPEER%20YERIMANI&fontSize=54&fontColor=E6F1FF&animation=fadeIn&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%E2%80%A2%20AI%20PRODUCT%20BUILDER%20%E2%80%A2%20SAAS%20ARCHITECT&descAlignY=60&descSize=16" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=%3E+initializing+developer.profile...;%3E+Building+scalable+full-stack+products;%3E+Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;%3E+SaaS+%C2%B7+CMS+%C2%B7+CRM+%C2%B7+AI+Tools;%3E+Now+shipping%3A+AI+Clipper+%F0%9F%8E%AC&font=JetBrains+Mono&center=true&width=780&height=50&color=00E5FF&vCenter=true&size=19&pause=1300&background=00000000" />
 
@@ -390,7 +390,7 @@ It's about understanding **why it works, how it can fail, how it can scale, and 
 
 <br/>
 
-<a href="https://www.linkedin.com/in/dadapeer-yerimani-98b90a27a/">
+<a href="https://www.linkedin.com/in/dadapeer-yerimani-dev/">
   <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-00E5FF?style=for-the-badge&logo=linkedin&logoColor=05060A&labelColor=05060A"/>
 </a>
 <a href="mailto:yerimanid@gmail.com">
